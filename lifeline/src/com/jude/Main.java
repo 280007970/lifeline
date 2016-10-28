@@ -7,23 +7,32 @@ import java.util.Map;
 public class Main {
     public static final Prisoner[] PRISONERS = {
             new AlexDeemPrisoner(),
+            new BKuinkPrisoner(),
             new BlakePrisonerM(),       // Reflect
+            new GodxuPrisoner(),
             new GrantsomePrisoner(),    // Reflect
             new HgsilPrisoner(),        // Reflect
             new HxPrisoner(),
             new JayPrisoner(),          // Reflect
             new JerryPrisoner(),
+            new KiraPrisoner(),
+            new LukePrisoner(),         // Reflect
+            new MactorialPrisoner(),
+            new MaoPrisoner(),
             new NimaPrisoner(),
             new NirioPrisoner(),
             new NookiaPrisoner(),       // Reflect
             new PinkDPrisoner(),        // 搞事
             new Rename(),               // Reflect
+            new RoyPrisoner(),
             new TentYinPrisoner(),
+            new TouchTheWorldPrisoner(),
             new WcyPrisoner(),
             new XiaossicaPrisoner(),
             new XuanYuPrisoner(),
             new ZhangPrisoner(),
             new ZouPrisoner(),
+            new ZWPrisoner(),
     };
 
 
